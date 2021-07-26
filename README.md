@@ -4,8 +4,7 @@
 
 <b>Input</b>
 1. A gridded shipborne multibeam bathymetry (depths in metres) in *.xyz format (here: <tt>'Input_Bathymetry_15s.xyz'</tt>)
-2. A Laplacian-of-Gaussian (LoG) mask created from the bathymetry using a third party software/tool in *.xyz format           
-   (here: <tt>'Input_LoG_mask.xyz'</tt>)
+2. A Laplacian-of-Gaussian (LoG) mask created from the bathymetry using a third party software/tool in *.xyz format (here: <tt>'Input_LoG_mask.xyz'</tt>)
 
 ![Input](https://github.com/alodiaga/SlopeWeightedEccentricity/blob/main/Images/Input_images.png)
 
