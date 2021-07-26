@@ -1,5 +1,7 @@
 # SlopeWeightedEccentricity
 
+[![View SlopeWeightedEccentricity.m on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/96509-slopeweightedeccentricity-m)
+
 <tt>SlopeWeightedEccentricity.m</tt> is a Matlab-based geomorphometric algorithm to obtain the numerical description of both magmatic and tectonic crust in a slow-spreading ridge through a series of calculation based on the distribution of the azimuth and plunge observed in the seafloor morphology.
 
 <b>Input</b>
