@@ -7,7 +7,7 @@
 2. A Laplacian-of-Gaussian (LoG) mask created from the bathymetry using a third party software/tool in *.xyz format           
    (here: <tt>'Input_LoG_mask.xyz'</tt>)
 
-![Input](https://github.com/alodiaga/SlopeWeightedEccentricity/blob/main/Images/Input.png)
+![Input](https://github.com/alodiaga/SlopeWeightedEccentricity/blob/main/Images/Input_images.png)
 
 If the LoG mask is not going to be used, we suggest creating a grid with the size and region of the gridded shipborne multibeam bathymetry and assigning the number '1' to all the cells (a 'no mask' example named <tt>'Input_no_mask.xyz'</tt> is provided) OR by exempting all the lines with the associated 'mask' from this script.
 
@@ -17,7 +17,7 @@ If the LoG mask is not going to be used, we suggest creating a grid with the siz
 3. SWE: Slope-weighted eccentricity (here: <tt>'Output_SWE.xyz'</tt>)
 4. Masked SWE (here: <tt>'Output_SWE_masked.xyz'</tt>)
 
-![Output](https://github.com/alodiaga/SlopeWeightedEccentricity/blob/main/Images/Output.png)
+![Output](https://github.com/alodiaga/SlopeWeightedEccentricity/blob/main/Images/Output_images.png)
 
 Each output is exported in *.xyz format. The resulting *.xyz data can be converted into *.grd using the <tt>xyz2grd</tt> function in GMT (http://gmt.soest.hawaii.edu/doc/5.3.2/xyz2grd.html)
 
