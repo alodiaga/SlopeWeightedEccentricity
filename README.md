@@ -17,4 +17,4 @@ If the LoG mask is not going to be used, we suggest creating a grid with the siz
 
 Each output is exported in *.xyz format. The resulting *.xyz data can be converted into *.grd using the xyz2grd function in GMT (http://gmt.soest.hawaii.edu/doc/5.3.2/xyz2grd.html)
 
-The shipborne multibeam bathymetry data sample is downloaded from the GMRT MapTool (https://www.gmrt.org/GMRTMapTool/) with the extent xmin/xmax/ymin/ymax of -46/-44/12.5/13.15
+The shipborne multibeam bathymetry data sample is downloaded from the GMRT MapTool (https://www.gmrt.org/GMRTMapTool/) with the extent <tt>xmin/xmax/ymin/ymax</tt> of <tt>-46/-44/12.5/13.15</tt>
