@@ -25,3 +25,9 @@ If the LoG mask is not going to be used, we suggest creating a grid with the siz
 Each output is exported in *.xyz format. The resulting *.xyz data can be converted into *.grd using the <tt>xyz2grd</tt> function in GMT (http://gmt.soest.hawaii.edu/doc/5.3.2/xyz2grd.html)
 
 The shipborne multibeam bathymetry data sample is downloaded from the GMRT MapTool (https://www.gmrt.org/GMRTMapTool/) with the extent <tt>xmin/xmax/ymin/ymax</tt> of <tt>-46/-44/12.5/13.15</tt>
+
+Preprint Citation:
+
+Alodia, G., Green, C., McCaig, A., & Paton, D. (2020). Slope-Weighted Eccentricity: Automatic Terrain Classification of Atlantic Ocean Crust. ESSOAr: Earth and Space Science Open Archive. [https://doi.org/10.1002/essoar.10502634.1]
+
+Full paper currently in preparation.
