@@ -30,4 +30,8 @@ The shipborne multibeam bathymetry data sample is downloaded from the GMRT MapTo
 
 Alodia, G., Green, C., McCaig, A., & Paton, D. (2020). Slope-Weighted Eccentricity: Automatic Terrain Classification of Atlantic Ocean Crust. ESSOAr: Earth and Space Science Open Archive. [https://doi.org/10.1002/essoar.10502634.1]
 
+<b>EGU Presentation:</b>
+
+Alodia, G., Green, C., McCaig, A., & Paton, D. (2020). A novel approach for oceanic spreading terrain classification at the Mid-Atlantic Ridge using Eigenvalues of high-resolution bathymetry. In EGU General Assembly Conference Abstracts (p. 337). [https://presentations.copernicus.org/EGU2020/EGU2020-337_presentation.pdf]
+
 Full paper currently in preparation.
